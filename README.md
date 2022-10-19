@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @okaayfine
+- 👀 I’m interested in cyber security.
+- 🌱 I’m currently learning to hack :)
+- 💞️ I’m looking to collaborate on bug bounty hunting especially for big scope targets.
+- 📫 How to reach me - kmhy80@gmail.com
